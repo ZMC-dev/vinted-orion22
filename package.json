@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.30.0",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "mongoose": "^6.4.3",
+    "uid2": "^1.0.0"
+  }
+}
